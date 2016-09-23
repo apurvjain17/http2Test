@@ -10,5 +10,10 @@
     "http2"
   ],
   "author": "Apurv jain",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http2": "^3.3.6",
+    "spdy": "^3.4.2"
+  }
 }
