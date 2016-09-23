@@ -1,0 +1,14 @@
+{
+  "name": "httpcomparission",
+  "version": "1.0.0",
+  "description": "This is a simple test to compare the two http protocols, we here will have two http servers one using protocol 1.1 and the other using http2.0, lets see which one is better.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http2"
+  ],
+  "author": "Apurv jain",
+  "license": "ISC"
+}
